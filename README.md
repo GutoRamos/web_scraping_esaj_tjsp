@@ -13,13 +13,7 @@ Bibliotecas: As seguintes bibliotecas Python devem ser instaladas:
 selenium
 chromedriver_autoinstaller
 Instale as bibliotecas necessárias usando pip
-pip install selenium chromedriver_autoinstaller
-Configuração
-Instale o ChromeDriver: O script usa chromedriver_autoinstaller para instalar automaticamente a versão adequada do ChromeDriver.
-Configure as Credenciais: Substitua 376.533.878-88 e 208574Lgpd@ pelas suas credenciais de acesso ao portal TJSP.
-Ajuste o Código: Caso necessário, ajuste o XPath e os seletores CSS de acordo com as atualizações no portal ou se o layout mudar.
-Uso
-Execute o script para iniciar a automação do processo de login e navegação no portal TJSP:
+pip install selenium chromedriver_autoinstaller o script para iniciar a automação do processo de login e navegação no portal TJSP:
 
 bash
 Copiar código
